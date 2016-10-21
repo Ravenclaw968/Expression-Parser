@@ -1,3 +1,5 @@
+This is a standard Maven project so the jar file can be found in the target folder.
+
 ```java
 // The two lines below are required so the Function class can determine the variables in the expression.
 ArrayList<String> externalVariables = new ArrayList<String>();
