@@ -15,6 +15,7 @@ System.out.println(function.evaluate(map));
 ```
 
 Functions available for use.
+
 |Function |    Example    |
 |---------|---------------|
 |  sin(x) |  sin(90) = 1  |
